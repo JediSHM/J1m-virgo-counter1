@@ -12,7 +12,7 @@
             <span id="counter">Loading...</span>
         </div>
         <div class="image-box">
-            <img src="friend_picture.jpg" alt="Friend's Face">
+            <img src="414738018_1410241943254408_7055695703436446956_n.jpg" alt="Friend's Face">
         </div>
         <div class="hands-box">
             <div class="hand left-hand"></div>
