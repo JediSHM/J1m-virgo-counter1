@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.counter-box {
+    background-color: #eee;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.image-box img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.hands-box {
+    display: flex;
+}
+
+.hand {
+    width: 50px;
+    height: 150px;
+    background-color: #ddd;
+    border: 2px solid #333;
+    border-radius: 10px;
+    margin: 0 10px;
+}
+
+.virginity-symbol {
+    font-size: 24px;
+    margin: 0 10px;
+}

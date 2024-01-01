@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Virginity Counter</title>
+</head>
+<body>
+    <div class="container">
+        <div class="counter-box">
+            <span id="counter">Loading...</span>
+        </div>
+        <div class="image-box">
+            <img src="friend_picture.jpg" alt="Friend's Face">
+        </div>
+        <div class="hands-box">
+            <div class="hand left-hand"></div>
+            <div class="virginity-symbol">&#9873;</div>
+            <div class="hand right-hand"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
